@@ -1,18 +1,18 @@
 {
-  "name": "translate-kit",
-  "version": "1.0.0",
-  "description": "",
+  "name": "translation-xlsx-loader",
+  "version": "0.0.1",
+  "description": "A simple utility for syncing a directory of angular $translate-style locale files with a master excel worksheet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Roope Tervo <roope.a.tervo@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "minimist": "^1.2.0",
     "node-xlsx": "^0.14.1"
   },
   "bin": {
-    "load-translations": "./index.js"
+    "translation-xlsx-loader": "./index.js"
   }
 }
