@@ -2,6 +2,7 @@
   "name": "translation-xlsx-loader",
   "version": "0.0.2",
   "description": "A simple utility for syncing a directory of angular $translate-style locale files with a master excel worksheet",
+  "homepage": "https://github.com/Oorpe/translation-xlsx-loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
